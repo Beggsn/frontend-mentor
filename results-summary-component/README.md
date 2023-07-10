@@ -25,7 +25,7 @@ Ihre Benutzer sollten dazu in der Lage sein:
 
 Du brauchst Unterstützung bei der Herausforderung? [Treten Sie unserer Slack-Community](https://www.frontendmentor.io/slack) bei und stellen Sie Fragen im Kanal **#help**.
 
-## Where to find everything
+## Wo man alles findet
 
 Ihre Aufgabe ist es, das Projekt mit den Designs im Ordner `/design` zu erstellen. Sie finden dort sowohl eine mobile als auch eine Desktop-Version des Designs.
 

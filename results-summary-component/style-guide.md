@@ -2,7 +2,7 @@
 
 ## Layout
 
-The designs were created to the following widths:
+Media Queries @:
 
 - Mobile: 375px
 - Desktop: 1440px
@@ -25,7 +25,6 @@ The designs were created to the following widths:
 - Persian blue (circle): hsla(241, 72%, 46%, 0)
 
 
-
 ### Neutral
 
 - White: hsl(0, 0%, 100%)
@@ -45,5 +44,5 @@ Use transparency to get the colour variations necessary to match the design. Hin
 
 ### Font
 
-- Family: [Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)
+- Family: Hanken Grotesk
 - Weights: 500, 700, 800
