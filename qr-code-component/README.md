@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR code component Lösung
 
-Dies ist eine Lösung für die ["QR-Code-Component" auf Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+Dies ist eine Lösung für die ["QR-Code-Component"](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) auf Frontend Mentor. 
 
 ## Inhaltsübersicht
 
@@ -23,8 +23,8 @@ Dies ist eine Lösung für die ["QR-Code-Component" auf Frontend Mentor](https:/
 
 ### Gebaut mit
 
-- Semantisches HTML5 Markup
-- Benutzerdefinierte CSS-Eigenschaften
+- semantischem HTML5 Markup
+- benutzerdefinierte CSS-Eigenschaften
 - Flexbox
 <!-- - Mobile-first workflow -->
 <!-- - [React](https://reactjs.org/) - JS library -->
