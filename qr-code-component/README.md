@@ -18,8 +18,7 @@ Dies ist eine Lösung für die ["QR-Code-Component"](https://www.frontendmentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [@Netlify](https://fm-qrcode-component.netlify.app/)
 
 ### Gebaut mit
 
